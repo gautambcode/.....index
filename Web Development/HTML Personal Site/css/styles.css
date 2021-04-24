@@ -1,0 +1,36 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  background-color: red;
+  border-style: none;
+  border-top-style: groove;
+  border-color: green;
+  height: 2px;
+  width: 100%;
+}
+box {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  height: 200px;
+  background-image: linear-gradient(to left, rgba(220,90,9,0.56), rgba(72,33,62,0.28));
+}
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px 30 stretch;
+}
+thead {
+  align-items: center;
+}
+tbody {
+  align-items: center;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
