@@ -1,5 +1,4 @@
 body {
-  background-color: #EAF6F6;
   background-image: linear-gradient(to left, rgba(220,90,9,0.56), rgba(72,33,62,0.28));  
 }
 hr {
@@ -21,6 +20,9 @@ box {
   border: 10px solid transparent;
   padding: 15px 30 stretch;
 }
+table {
+  align-items: center;
+  
 thead {
   align-items: center;
 }
