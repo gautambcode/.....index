@@ -1,5 +1,6 @@
 body {
-  background-image: linear-gradient(to left, rgba(220,90,9,0.56), rgba(72,33,62,0.28));  
+  background-image: linear-gradient(to left, rgba(220,90,9,0.56), rgba(72,33,62,0.28));
+  background-color: red;
 }
 hr {
   background-color: red;
@@ -25,6 +26,7 @@ table {
   
 thead {
   align-items: center;
+  color:blue;
 }
 tbody {
   align-items: center;
