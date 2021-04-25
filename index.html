@@ -2,7 +2,20 @@
 <html>
 <head>
   <meta charset="UTF-8" />
-<table cellspacing="20" border="20px">
+<table {
+  cellspacing="20"
+  border="20px"
+  valign="middle"
+  border-collapse: collapse;
+  width="100%"
+}
+th, td {
+  text-align:center;
+  padding: 8px
+}
+tr:nth-child(even) {background-color: #e2f2f2;}
+tr:nth-child(odd) {background-color: #e2c4a1;}
+
   <tr>
     <td>  <img src="https://qph.fs.quoracdn.net/main-thumb-124602141-200-uzrnlfseqouajdvlicufuvgmboevsuee.jpeg" alt="Gautam Bharath" height:"15px" width:"15px"/>
 </td>
@@ -23,7 +36,7 @@
 </ul>
 <hr />
 <h3>My Talents and Practice:</h3>
-<table>
+<table valign="middle">
   <thead>
     <tr>
       <th align="center">Dates</th>
@@ -62,7 +75,7 @@
 <h3>Skills</h3
   </td>
   <td>
-    <table border="3px">
+    <table border="3px" valign="middle">
       <tr>
         <td>HTML</td>
         <td>✨✨✨✨✨</td>
