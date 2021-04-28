@@ -17,6 +17,25 @@ box {
   height: 200px;
   background-image: linear-gradient(to left, rgba(220,90,9,0.56), rgba(72,33,62,0.28));
 }
+
+.top-container {
+    background-color: #E4F9F5;
+    position: reltive;
+    padding: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+ text-decoraion: underline; 
+}
+
 #borderimg {
   border: 10px solid transparent;
   padding: 15px 30 stretch;
