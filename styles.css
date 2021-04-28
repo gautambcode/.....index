@@ -4,6 +4,10 @@ body {
   justify-content: center;  
   margin: 0;
   text-align: center;
+  background: #eb01a5;
+  background-image: linear-gradient(#eb01a5, #d13431); /* fallback */
+  background-image: linear-gradient(#eb01a5, #d13531); /* W3C */
+  
 }
 
 h1 {
