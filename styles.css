@@ -9,7 +9,7 @@ body {
 
 h1 {
   font-family: 'Sacramento', cursive;  
-  font-size: 90px;
+  font-size: 90px auto 0 auto;
   margin-top: 50;
 }
 
