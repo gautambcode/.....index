@@ -30,6 +30,8 @@ h3 {
 hr {
  border: dotted $EAG7S9 6PX;
  border-bottom: none;
+ width: 4%;
+ margin: 100px auto; 
 }  
 
 .top-container {
