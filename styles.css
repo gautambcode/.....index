@@ -45,8 +45,10 @@ h3 {
  text-decoraion: underline; 
 }
 
-.skills-row {
+.skill-row {
   width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
 }  
 
 .top-cloud {
