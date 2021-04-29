@@ -23,7 +23,7 @@ h2 {
 }
 
 h3 {
-  OLOR: #11999E;
+  color: #11999E;
   font-family: 'Monteserrat', sans-serif;
 }
 
@@ -43,6 +43,10 @@ h3 {
 
 .pro {
  text-decoraion: underline; 
+}
+
+.intro {
+  width: 30%;
 }
 
 .skill-row {
