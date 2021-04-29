@@ -45,6 +45,10 @@ h3 {
  text-decoraion: underline; 
 }
 
+.skills-row {
+  width: 50%;
+}  
+
 .top-cloud {
   position: absolute;
   right:300px;
