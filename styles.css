@@ -27,6 +27,10 @@ h3 {
   font-family: 'Monteserrat', sans-serif;
 }
 
+hr {
+ border: dotted $EAG7S9 6PX; 
+}  
+
 .top-container {
     background-color: #E4F9F5;
     padding-top: 100px;  
