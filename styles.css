@@ -1,6 +1,6 @@
 body {
   bg-color: #EB01A5;
-  font-family: "Merriweather",serif;
+  font-family: "Papyrus", "copperlate", cursive;
   text-align: center;  
   margin: 0;
   text-align: center;
@@ -15,8 +15,8 @@ h1 {
 }
 
 h2 {
-  color: #66BBF;  
-  font-family: 'Monteserrat', sans-serif;
+  color: #FFD700;  
+  font-family: "Papyrus", "copperplate" fantasy;
   font-size: 2.5rem;
   font-weight: normal
   padding-bottom: 10px;
@@ -24,7 +24,7 @@ h2 {
 
 h3 {
   color: #11999E;
-  font-family: 'Monteserrat', sans-serif;
+  font-family: 'Papyrus', "copperplate" fantasy;
 }
 
 hr {
