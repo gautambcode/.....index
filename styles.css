@@ -35,6 +35,11 @@ hr {
  margin: 100px auto; 
 }  
 
+.icon {
+    height: 20px;
+    width: 20px;
+}
+
 .top-container {
     background-color: #E4F9F5;
     padding-top: 100px;  
