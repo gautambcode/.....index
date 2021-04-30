@@ -1,3 +1,8 @@
+background-image {
+    height: 20px;
+    width: 20px;
+}
+
 body {
   background-image: url('https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_960_720.jpg');        
   bg-color: #EB01A5;
@@ -34,11 +39,6 @@ hr {
  width: 4%;
  margin: 100px auto; 
 }  
-
-.icon {
-    height: 20px;
-    width: 20px;
-}
 
 .top-container {
     background-color: #E4F9F5;
